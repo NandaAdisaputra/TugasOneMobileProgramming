@@ -94,7 +94,7 @@
 
         <TextView
             style="@style/AppItemTitleView"
-            android:text="@string/popupar_apps_game" />
+            android:text="@string/popular_apps_game" />
 
         <TextView style="@style/AppItemMoreView" />
 
